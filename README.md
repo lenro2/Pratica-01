@@ -1,3 +1,3 @@
-# Starting
+# Pratica 01
 A new repository for start learning html, css and JavaScript
 ctrl + ; para comentar
